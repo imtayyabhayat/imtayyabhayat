@@ -24,12 +24,13 @@ I'm a full-stack web developer with **6+ years** of experience crafting robust a
 * Collaborating with talented developers to build exceptional products.
 
 **Let's connect!**
-[https://linkedin.com/in/tayyabhayat]
-[https://www.upwork.com/freelancers/~015f95a1b669dc1ce9]
+
+[Linkedin](https://linkedin.com/in/tayyabhayat)
+[Upwork](https://www.upwork.com/freelancers/~015f95a1b669dc1ce9)
 
 **Feel free to reach out if you have any questions or project ideas.**
 
-### Blog (Optional)
+### Blog 
 * [https://hayatics.com]
 
 
